@@ -1,0 +1,9 @@
+@import url('css/header.css');
+@import url('css/body.css');
+@import url('css/navigation.css');
+@import url('css/site.css');
+
+img {
+    border: 4px dashed #092435;
+    background-color: #0d405f;
+}
